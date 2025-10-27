@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+openai
+pypdf
+tiktoken
+python-dotenv
+langchain-text-splitters
