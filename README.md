@@ -25,12 +25,14 @@ PDF → Text Splitting → Embeddings → Vector Search → LLM → Answer
 - LangChain
 - Vector embeddings
 - LLM API
+- Streamlit
 
 ## What I Learned
 - End-to-end RAG pipeline
 - Prompt engineering
 - Embedding-based retrieval systems
+- Add a UI (Streamlit)
+- Support for multi-doc handling
 
 ## Future Improvements
-- Add a UI (Streamlit / Flask)
-- Support for multi-doc handling
+- Add multiple files at the same time
